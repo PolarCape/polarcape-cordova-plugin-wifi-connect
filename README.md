@@ -1,21 +1,14 @@
-plugin-cordovaWiFiConnect
-==============
+#  Polar Cape Cordova Plugin WiFi Connect
 
-* License - The MIT License
-* Test on Cordova 3.4.0
+## Install
 
+    npm install -g polarcape-cordova-plugin-wifi-connect
 
-Install Step (Cordova CLI)
---------------------------
+## Example
 
-### 
-	cordova plugin add https://github.com/gkopevski/plugin-cordovaWiFiConnect
+Test on Cordova 3.4.0
 
-API
------
-
-### Example 
-```javascript
+    javascript
     
     var args = [{"SSID":"Goran's iPhone"}];
     window.wifiConnect(function(data){
@@ -23,4 +16,4 @@ API
     },args);
 
 
-```
+License - The MIT License
