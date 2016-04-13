@@ -8,7 +8,7 @@
 
 Test on Cordova 3.4.0
 
-    javascript
+```javascript
     
     var args = [{"SSID":"Goran's iPhone"}];
     window.wifiConnect(function(data){
