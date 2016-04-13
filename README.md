@@ -1,4 +1,4 @@
-#  Polar Cape Cordova Plugin WiFi Connect
+#  Polar Cape Cordova Plugin WiFi Connect (Android)
 
 ## Install
 
