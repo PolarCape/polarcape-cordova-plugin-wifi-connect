@@ -2,14 +2,14 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
-           id="org.apache.cordova.wificonnect"
+           id="com.polarcape.plugins.wificonnect"
       version="0.1.1">
 
     <name>Wifi Network Connect</name>
     <description>Cordova Wifi Connect Plugin</description>
     <license>MIT</license>
     <keywords>cordova,network,wifi,Connect,gkopevski</keywords>
-    <repo>https://github.com/gkopevski/plugin-cordovaWiFiConnect/</repo>
+    <repo>https://github.com/PolarCape/polarcape-cordova-plugin-wifi-connect.git</repo>
 
     <js-module src="www/cordovaWifiConnect.js" name="wifi">
         <clobbers target="wifi" />
